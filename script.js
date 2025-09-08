@@ -1,4 +1,4 @@
- let a=10;
+let a=10;
 let b=20;
 let c=b%a;
 document.writeln("output for c is",c)
